@@ -94,3 +94,28 @@ h3 + p strong {
     padding-bottom: 10px;
     display: inline-block;
 }
+/* Add these styles to your primary_style.css file */
+
+/* Style the card container */
+.card {
+    background-color: #222; /* Dark background for cards */
+    border: 2px solid #ab8102; /* Gold border for cards */
+    border-radius: 10px;
+    margin-bottom: 20px; /* Spacing between cards */
+}
+
+/* Style the card title */
+.card-title {
+    color: #ab8102; /* Gold card title color */
+    font-weight: bold;
+}
+
+/* Style the card text */
+.card-text {
+    color: #fff; /* Light text color for card content */
+}
+
+/* Style the card image */
+.card-img-top {
+    border-radius: 10px 10px 0 0; /* Rounded corners for top of the image */
+}
